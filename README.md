@@ -1,4 +1,5 @@
 # LearnGit
-My new repository
-new changes
-work on git and github
+My new repository.
+Contains new learnings.
+
+
